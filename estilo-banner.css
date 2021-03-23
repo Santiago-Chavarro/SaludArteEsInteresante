@@ -275,7 +275,7 @@ h2{
 .banner-img-3{
     width: 400px;
     padding-top: 60px;
-    margin-bottom: 50px;
+    margin-bottom: 200px;
     height: 300px;
     /*border: 2px solid grey;*/    
     margin-left: 500px;
@@ -390,6 +390,8 @@ h5{
 p{
     font-family: sans-serif;
     color: rgb(90, 89, 89);
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 h8{
