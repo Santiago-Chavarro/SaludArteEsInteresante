@@ -1,0 +1,457 @@
+/*home*/
+@keyframes banner{
+    0%, 30%{
+        background-image:url(banner1.1.jpg);
+    }
+    35%, 65%{
+        background-image:url(banner1.2.jpg);
+    }
+    70%, 100%{
+        background-image:url(banner1.3.jpg);
+    }
+
+}
+
+
+.banner-bienv-def{
+    width: 1100px;
+    height: 90px;
+    margin: auto;
+    /*border: 2px solid grey;*/
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+h10{
+    font-family:sans-serif ;
+    font-size: 1cm;
+    color: rgb(21, 5, 94);
+}
+
+
+.banner-producto{
+    
+   /* border: 2px solid grey;*/
+    margin: auto;
+    background-size: 100% 100%;
+}
+
+.banner-producto-def1{
+    width: 300px;
+    height: 200px;
+    border: 2px solid grey;
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+
+.banner-producto-def2{
+    width: 300px;
+    height: 200px;
+    border: 2px solid grey;
+    margin-left: 455px;
+    margin-top: -200px;
+}
+
+.banner-producto-def3{
+    width: 300px;
+    height: 200px;
+    border: 2px solid grey;
+    margin-left: 760px;
+    margin-top: -200px;
+}
+
+.banner-producto-1{
+    width: 220px;
+    height: 200px;
+    padding-top: 60px;
+    margin-left: 15px;
+    border: 2px solid grey;
+    background-image: url();
+    background-size: 100% 100%;
+    background: url(mantenimiento_soporte.jpg);
+}
+
+.banner-producto-2{
+    width: 220px;
+    height: 200px;
+    margin-left: 250px;
+    margin-top: -200px;
+    border: 2px solid grey;
+    background-image: url();
+    background-size: 100% 100%;
+    background: url(cableado.jpg);
+}
+.banner-producto-3{
+    width: 220px;
+    height: 200px;
+    margin-left: 485px;
+    margin-top: -200px;
+    border: 2px solid grey;
+    background-image: url();
+    background-size: 100% 100%;
+    background: url(diseño_web.jpg);
+}
+
+.banner-producto-4{
+    width: 240px;
+    height: 200px;
+    margin-left: 720px;
+    margin-top: -200px;
+    border: 2px solid grey;
+    background-image: url();
+    background-size: 100% 100%;
+    background: url(desarrollos.jpg);
+}
+
+
+.banner-producto-6{
+    width: 220px;
+    height: 200px;
+    margin-left: 975px;
+    margin-top: -200px;
+    border: 2px solid grey;
+    background-image: url();
+    background-size: 100% 100%;
+    background: url(montaje_pc.jpg);
+}
+
+.banner-destacados{
+    width: 1200px;
+    height: 400px;
+    /*border: 2px solid grey;*/
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.banner-dest-def{
+    width: 1200px;
+    height: 60px;
+    /*border: 2px solid grey;*/
+    margin: auto;
+    text-align: center;
+    margin-top: 10px;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.banner-dest-1{
+    width: 400px;
+    height: 250px;
+    /* border: 2px solid grey; */
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.banner-dest-2{
+    width: 400px;
+    height: 250px;
+    /* border: 2px solid grey; */
+    margin-top: -250px;
+    margin-left: 650px;
+}
+
+
+h3{
+    font-size: 0.8cm;
+    font-family: sans-serif;
+}
+
+
+/*servicios*/
+
+.banner-servicios{
+    width: 1100px;
+    height: 1500px;
+   /* border: 2px solid grey;*/
+    margin: auto;
+    margin-top: 90px;
+}
+
+.banner-servicio-1{
+    width: 300px;
+    height: 200px;
+    /*border: 2px solid grey;*/
+    margin-left: 650px;
+}
+
+.banner-servicio-2{
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid grey;*/
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.banner-servicio-3{
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid grey;*/
+    margin-top: 50px;
+    margin-left: 650px;
+}
+
+
+.def1{
+    width: 550px;
+    height: 200px;
+    /* border: 2px solid grey; */
+    margin-left: 400px;
+    margin-top: -200px;
+}
+
+.def2{
+    width: 550px;
+    height: 200px;
+    /* border: 2px solid grey; */
+    margin-left: 150px;
+    margin-top: -200px;
+
+}
+
+
+/*sobre nosotros*/
+
+
+.banner-q{
+    width: 500px;
+    height: 300px;
+    margin-left: 200px;
+    margin-right: 10px;
+    margin-top: 100px;
+    background-image: url(def-quien.jpg);
+    background-size: 100% 100%;
+
+}
+
+.banner-def{
+
+    width: 400px;
+    padding-top: 60px;    
+    height: 300px;
+    /*border: 2px solid grey;*/
+    margin-left: 550px;
+    border-top-style: solid;
+    border-top-color: rgb(122, 122, 122);
+    border-top-width: 3px;
+
+}
+
+h2{
+    font-size: 0.8cm;
+    font-family: sans-serif;
+
+}
+
+#Img_2{
+    margin-left: 100px;
+}
+
+.banner-quien{
+    width: 500px;
+    height: 300px;
+    /*border: 2px solid grey;*/
+    margin-left: 740px;
+    background-image: url(def-nuestra.jpg);
+    background-size: 100% 100%;
+
+}
+
+.banner-quien-def{
+    width: 400px;
+    padding-top: 60px;
+    height: 300px;
+    /*border: 2px solid grey;*/    
+    margin-left: -507px;
+    background-image: url();
+    background-size: 100% 100%;
+    border-top-style: solid;
+    border-top-color: rgb(122, 122, 122);
+    border-top-width: 3px;
+}
+
+.banner-img-3{
+    width: 400px;
+    padding-top: 60px;
+    margin-bottom: 50px;
+    height: 300px;
+    /*border: 2px solid grey;*/    
+    margin-left: 500px;
+    border-top-style: solid;
+    border-top-color: rgb(122, 122, 122);
+    border-top-width: 3px;
+    margin-left: 740px;
+}
+
+#Img_3{
+    margin-left: 75px;
+}
+
+h3{
+    font-size: 0.8cm;
+    font-family: sans-serif;
+}
+
+
+.banner-responsabilidad img {
+  filter: opacity(50%);
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 60px;
+}
+
+.banner-respo-def{
+    position:absolute;
+    width: 600px;
+    font-size: 135%;
+    margin-top: -350px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h4{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.banner-valores{
+
+    width: 900px;
+    height: 600px;
+    margin-top: 40px;
+    margin: auto;
+    background-image: url();
+    border-top: 2px solid grey;
+}
+
+.banner-valor-def{
+    margin-top: 20px;
+}
+
+h5{
+    text-align: center;
+    font-size: 1cm;
+    font-family: sans-serif;
+    color: rgb(34, 34, 83);
+}
+
+.valor1{
+    width: 300px;
+    height:90px;
+   /* border: 2px solid gray;*/
+    margin-top: 60px;
+}
+
+.valor2{
+    width: 300px;
+    height:90px;
+   /* border: 2px solid gray;*/
+    margin-top: 60px;
+}
+
+.valor3{
+    width: 300px;
+    height:90px;
+    /*border: 2px solid gray;*/
+    margin-top: 60px;
+}
+
+.valor4{
+    width: 300px;
+    height:90px;
+    /*border: 2px solid gray;*/
+    margin-left: 600px;
+    margin-top: -390px;
+}
+
+.valor5{
+    width: 300px;
+    height:90px;
+    /*border: 2px solid gray;*/
+    margin-left: 600px;
+    margin-top: 60px;
+}
+
+.valor6{
+    width: 300px;
+    height:90px;
+    /*border: 2px solid gray;*/
+    margin-left: 600px;
+    margin-top: 60px;
+}
+
+p{
+    font-family: sans-serif;
+    color: rgb(90, 89, 89);
+}
+
+h8{
+    font-family: sans-serif;
+    color:rgb(68, 67, 68);
+    font-size: 0.5cm;
+}
+
+/*contactenos*/
+
+.banner-contacto{
+    width: 1000px;
+    height: 800px;
+   /* border: 2px solid gray;*/
+    margin: auto;
+    margin-top: 90px;
+}
+
+.banner-c{
+    width: 650px;
+    height: 60px;
+    margin: auto;
+    /*border-top: 2px solid gray;*/
+    /*border-bottom: 2px solid gray;*/
+    text-align: center;
+}
+
+.banner-correo{
+    width: 800px;
+    height: 150px;
+    margin: auto;
+    /*border: 2px solid gray;*/
+    margin-top: 60px;
+    text-align: center;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.banner-whatsapp{
+    width: 800px;
+    height: 150px;
+    margin: auto;
+    /*border: 2px solid gray;*/
+    margin-top: 60px;
+    text-align: center;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.banner-redes{
+    width: 800px;
+    height: 150px;
+    margin: auto;
+    /*border: 2px solid gray;*/
+    margin-top: 60px;
+    text-align: center;
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+h11{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: 22px;
+    color: rgb(34, 34, 83);
+}

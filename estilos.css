@@ -1,0 +1,215 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; 
+}
+
+h1{
+    padding-top: 60px;
+    text-align: center;
+}
+
+/* Menú */
+
+img.menu{
+    position: relative;
+    margin-left: 35px;
+    margin-top: 3px;
+}
+
+img.logo{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 3px;
+}
+
+nav{
+    float: left;
+}
+
+.header{
+    position: fixed;
+    background: #242427;
+    width: 100%;
+    height: 62px;
+    box-shadow: 0, 0, 30px  #ffffff;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(122, 122, 122);
+    border-bottom-width: 3px;
+    z-index: 1  ;
+}
+
+.encabezado{
+    width: 80%;
+    height: 30px;
+    margin: auto;
+    
+}
+
+.logo{
+    width: 36%;
+    height: auto; overflow: hidden;
+    float: left;
+    margin-left: -85px;
+}
+
+.menu {
+    width: 60%;
+    height: 40px;
+    float: right;
+    border: 1px;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: -370px;
+}
+
+.menu .enlace{
+    color: #ffffff;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 11px;
+    font-size: 16px;
+}
+
+.menu .enlace:hover{
+    color: #757575ea;
+    transition: all .5s;
+
+}
+
+.menu > ul {
+    list-style: none;
+    display: flex;
+}
+
+.submenu{
+    display: none;
+    background-color: #272729ec;
+    padding: 20px;
+    list-style: none;
+    position: absolute;
+    top:60px;
+    left: 800px;
+    font-family: sans-serif;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 18%;
+    padding-left: 15px;
+    padding-top: 10px;
+}
+
+.submenu li{
+    text-align: start;
+    padding: 5px;
+}
+
+.submenu a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.hover:hover .submenu{
+    display: block !important;
+}
+
+/* Pie de Pagina*/
+
+
+.contactanos{
+    width: 370px ;
+    height: 100px;
+    margin-right: auto;
+    padding-left: 100px;
+    margin-top: 40px;
+    
+}
+
+.categorias{
+    width: 370px ;
+    height: 100px;
+    margin: auto;
+    padding-left: 70px;
+    margin-top: -100px;
+    
+}
+
+.siguenos{
+    width: 370px ;
+    height: 100px;
+    margin-left: auto;
+    margin-top: -100px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+b1{
+    color: #b4b4b4;
+}
+
+
+.pie_pagina{
+    width: 100%;
+    height: 220px;
+    background: #3f3f3f;
+}
+
+p.red{
+    margin-right: 30px;
+    margin-top: -95px;
+    
+}
+
+img.isocial{
+    
+    margin-left: 6px;
+    margin-top: 0px;
+    width: 30px;
+    height: 30px;
+}
+
+img.fsocial{
+    
+    margin-left: 8px;
+    margin-top: 0px;
+    width: 30px;
+    height: 30px;
+}
+
+
+div.rigth{
+    width: 100%;
+    height: 50px;
+    background: #2b2a2a;
+}
+
+p.rigths{
+    position: relative;
+    text-align: center;
+    top: 20px;
+    color: #ffffff;
+}
+
+
+hr{
+    margin-top: 2px;
+    width: 160px;
+    margin-bottom: 10px;
+    border: rgba(53, 53, 53, 0.884) 1px solid;
+}
+
+a{
+    color: rgb(90, 89, 89);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+
+
+
+
