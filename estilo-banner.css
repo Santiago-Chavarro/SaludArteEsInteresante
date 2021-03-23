@@ -273,8 +273,8 @@ h2{
 }
 
 .banner-img-3{
-   width: 400px;
-    padding-top: 150px;
+    width: 400px;
+    padding-top: 60px;
     margin-bottom: 200px;
     height: 300px;
     /*border: 2px solid grey;*/    
@@ -283,6 +283,7 @@ h2{
     border-top-color: rgb(122, 122, 122);
     border-top-width: 3px;
     margin-left: 740px;
+    margin-bottom: 60px;
 }
 
 #Img_3{
