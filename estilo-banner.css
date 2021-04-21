@@ -193,6 +193,13 @@ h3{
     margin-left: 650px;
 }
 
+.banner-servicio-4{
+    width: 200px;
+    height: 200px;
+    /*border: 2px solid grey;*/
+    margin-top: 50px;
+    margin-left: 50px;
+}
 
 .def1{
     width: 550px;
